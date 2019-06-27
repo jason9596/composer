@@ -1,0 +1,13 @@
+{
+    "name": "jason9596/composer",
+    "description": "study composer",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "authors": [
+        {
+            "name": "dongjt",
+            "email": "18231150251@163.com"
+        }
+    ]
+}
